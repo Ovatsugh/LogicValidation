@@ -12,7 +12,7 @@ Após execultar o programa insira suas preposições
 🛠️ OPERAÇÕES
 - Conjunção de preposições: **AND**ㅤ-->ㅤ| ex:ㅤ(argumento 1) AND (argumento 2)
 - Disjunção de preposições: **OR**ㅤ-->ㅤ| ex:ㅤ(argumento 1) OR (argumento 2)
-- Condicionar: **IF THEN**ㅤ-->ㅤ| ex:ㅤIF (argumento 1) THEN (argumento 2)
+- Condicional: **IF THEN**ㅤ-->ㅤ| ex:ㅤIF (argumento 1) THEN (argumento 2)
 
 ⚠️ IMPORTANTE
 - As preposições devem estar entre parênteses
