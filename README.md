@@ -1,7 +1,8 @@
 <h1 align="center"> LogicValidation </h1>
 
+Créditos ao autor:
 
-          Esse é o arquivo executável de um código phyton que faz validações  de preposições lógicas na linguagem formal
+           Esse é o arquivo executável de um código phyton que faz validações  de preposições lógicas na linguagem formal
 
 <h3> COMO USAR </h3>
 Após execultar o programa insira suas preposições
