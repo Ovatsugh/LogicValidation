@@ -9,5 +9,5 @@ Após execultar o programa insira suas preposições
 - Para guardar as preposições insira --> **-1** 
 
 Após insirir as preposições faça as operações
--Conjunção de preposições: **AND** ex: (argumento 1) AND (argumento 2)
--Disjuntão de preposições: **OR**  ex (argumento 1) OR (argumento 2)
+- Conjunção de preposições: **AND** ex: (argumento 1) AND (argumento 2)
+- Disjuntão de preposições: **OR**  ex (argumento 1) OR (argumento 2)
