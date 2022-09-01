@@ -2,7 +2,7 @@
 
 Créditos ao autor:
 
-           Esse é o arquivo executável de um código phyton que faz validações  de preposições lógicas na linguagem formal
+           https://github.com/ParhamP/Natural_Logic_Interpreter
 
 <h3> COMO USAR </h3>
 Após execultar o programa insira suas preposições
@@ -19,3 +19,7 @@ Após execultar o programa insira suas preposições
 - Os operadores AND OR NOT devem estar em MAIÚSCULO
 
 <h3> CONSIDERAÇÕES FINAIS </h3>
+- Esse código foi traduzido, editado e convertido para arquivo executável por mim, enretanto não é de minha autoria, os crédidos ao autor estão no inicio desse README.
+- Por ser um código simples não é recomendável fazer operações grandes
+- É provável que em algum momente você receba o valor ``none`` como resposta da preposição, isso acontece ao digitar aldo de errado no input
+- Caso esteja tudo correto e você estja recebendo o valor ``none`` basta reiniciar o programa e ele voltará ao normal
