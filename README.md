@@ -15,7 +15,7 @@ Após execultar o programa insira suas preposições
 - Condicionar: **IF THEN**ㅤ-->ㅤ| ex:ㅤIF (argumento 1) THEN (argumento 2)
 
 ⚠️ IMPORTANTE
-- AS preposições devem estar entre parênteses
+- As preposições devem estar entre parênteses
 - Os operadores AND OR NOT devem estar em MAIÚSCULO
 
 <h3> CONSIDERAÇÕES FINAIS </h3>
