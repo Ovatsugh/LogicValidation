@@ -16,3 +16,5 @@ Após execultar o programa insira suas preposições
 ⚠️ IMPORTANTE
 - AS preposições devem estar entre parênteses
 - Os operadores AND OR NOT devem estar em MAIÚSCULO
+
+<h3> CONSIDERAÇÕES FINAIS </h3>
