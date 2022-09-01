@@ -19,6 +19,7 @@ Após execultar o programa insira suas preposições
 - Os operadores AND OR NOT devem estar em MAIÚSCULO
 
 <h3> CONSIDERAÇÕES FINAIS </h3>
+
 - Esse código foi traduzido, editado e convertido para arquivo executável por mim, enretanto não é de minha autoria, os crédidos ao autor estão no inicio desse README.
 
 - Por ser um código simples não é recomendável fazer operações grandes
