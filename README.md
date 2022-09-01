@@ -5,13 +5,13 @@ Esse é o arquivo executável de um código phyton que faz validações  de prep
 
 # COMO USAR
 Após execultar o programa insira suas preposições
-- Para negar  a preposição: (NOT preposition) ex: (NOT fui ao mercado)
+- Para negar  a preposição: (NOT preposition)   ex: (NOT fui ao mercado)
 - Para começar as operações insira: -1
 
-🛠️ OPERAçÕES
-- Conjunção de preposições: **AND** ex: (argumento 1) AND (argumento 2)
-- Disjuntão de preposições: **OR**  ex (argumento 1) OR (argumento 2)
-- Condicionar: **IF THEN** ex IF (argumento 1) THEN (argumento 2)
+🛠️ OPERAÇÕES
+- Conjunção de preposições: **AND**   ex: (argumento 1) AND (argumento 2)
+- Disjunção de preposições: **OR**    ex (argumento 1) OR (argumento 2)
+- Condicionar: **IF THEN**   ex IF (argumento 1) THEN (argumento 2)
 
 ⚠️ IMPORTANTE
 - AS preposições devem estar entre parênteses
