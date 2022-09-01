@@ -5,6 +5,7 @@ Créditos ao autor:
            https://github.com/ParhamP/Natural_Logic_Interpreter
 
 <h3> COMO USAR </h3>
+
 - Após execultar o programa insira suas preposições
 - Para negar  a preposição: (NOT preposition)   ex: (NOT fui ao mercado)
 - Para começar as operações insira: -1
